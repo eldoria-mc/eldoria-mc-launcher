@@ -1,12 +1,12 @@
 {
 
-  "name": "lofty-launcher",
+  "name": "Eldoria",
   "version": "2.1.3",
   "author": "wiltark",
   "license": "UNLICENSED",
-  "homepage": "https://github.com/wilark/lofty-launcher/",
+  "homepage": "https://github.com/wilark/Eldoria/",
   "bugs": {
-    "url": "https://github.com/wilark/lofty-launcher/issues"
+    "url": "https://github.com/wilark/Eldoria/issues"
   },
   "private": true,
   "main": "index.js",
@@ -45,6 +45,6 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/wilark/lofty-launcher"
+    "url": "git+https://github.com/wilark/Eldoria"
   }
 }

@@ -1,5 +1,5 @@
-appId: "lofty-launcher"
-productName: "lofty-launcher"
+appId: "Eldoria"
+productName: "Eldoria"
 artifactName: "${productName}-setup-${version}.${ext}"
 
 copyright: "Copyright © 2023-2024 eraxium"
@@ -41,7 +41,7 @@ linux:
   target: "AppImage"
   maintainer: "eraxium"
   vendor: "eraxium"
-  synopsis: "lofty-launcher"
+  synopsis: "Eldoria"
   description: "soon."
   category: "Game"
 

@@ -3066,7 +3066,7 @@ input:checked + .toggleSwitchSlider:before {
   position: relative;
 
   box-sizing: border-box;
-  border-radius: 50%;
+
 }
 
 /* Logo container styles. */

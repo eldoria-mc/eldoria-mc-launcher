@@ -131,7 +131,7 @@ continueButton = "CONTINUER"
 
 [js.discord]
 waiting = "En attente du client.."
-state = "lofty-launcher V2.1.1"
+state = "Eldoria V2.1.1"
 
 [js.index]
 microsoftLoginTitle = "Connexion Microsoft"
