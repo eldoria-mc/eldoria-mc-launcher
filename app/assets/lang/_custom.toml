@@ -1,0 +1,20 @@
+# Custom Language File for Launcher Customizer
+
+[ejs.app]
+title = "Eldoria"
+
+[ejs.landing]
+mediaGitHubURL = "https://Eldoria-mc.fr"
+mediaTwitterURL = "https://twitter.com/Eldoria-mc"
+mediaInstagramURL = "https://www.instagram.com/Eldoria-mc/"
+mediaYouTubeURL = "https://www.youtube.com/@Eldoria-mc"
+mediaDiscordURL = "https://discord.eraxium.com"
+
+[ejs.settings]
+sourceGithubLink = "https://github.com/wiltark/Eldoria"
+supportLink = "https://Eldoria-mc.com/support"
+
+[ejs.welcome]
+welcomeHeader = "BIENVENUE SUR Eldoria"
+welcomeDescription = "Le launcher cool."
+welcomeDescCTA = "Vous n'êtes qu'à quelques clics des modes packs."
